@@ -73,10 +73,6 @@ Si quieres mejorar el proyecto:
 - Abre un issue describiendo el cambio o bug.
 - Envía un pull request con pruebas y documentación de los cambios.
 
-Licencia
---------
-Indica aquí la licencia que quieras usar (por ejemplo MIT) o elimina esta sección si no aplica.
-
 Contacto
 -------
 Para dudas o sugerencias, crea un issue en el repositorio.
