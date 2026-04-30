@@ -62,9 +62,10 @@ Limitaciones y mejoras sugeridas
 -------------------------------
 - Validación de entradas: actualmente la conversión a int/float puede lanzar excepciones si el usuario ingresa texto no numérico. Añadir validaciones y manejo de errores.
 - Manejo de errores de la base de datos con bloques `try/except`.
-- Búsqueda y filtrado: añadir búsqueda por nombre o categoría, y paginación para listados grandes.
+- Búsqueda y filtrado: añadir búsqueda por nombre o categoría.
+  
 - Importación/Exportación: añadir exportación a CSV y posibilidad de importar productos.
-- Interfaz: considerar una interfaz gráfica (Tkinter) o una API REST para acceso remoto.
+- Interfaz: considerar una interfaz gráfica (Tkinter).
 - Concurrencia: si habrá acceso multiusuario, añadir control de concurrencia y/o migrar a un motor de BD servidor.
 
 Contribuciones
@@ -75,4 +76,6 @@ Si quieres mejorar el proyecto:
 
 Contacto
 -------
-Para dudas o sugerencias, crea un issue en el repositorio.
+Para dudas o sugerencias, crea un issue en el repositorio o contactame a mi correo: godoyfacundotomas336@gmail.com.
+
+Muchas gracias !!!
