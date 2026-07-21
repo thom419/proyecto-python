@@ -1,4 +1,4 @@
-# Inventario (entrega_final_curso.py)
+# Entrega final app de inventario del curso **Iniciación a la Programación con Python** TalentoTech (entrega_final_curso.py)
 
 Descripción
 -----------
